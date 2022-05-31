@@ -1,0 +1,2 @@
+run     = "cd src; rm *.class; javac *.java; java Desmos;"
+laguage = "java"
